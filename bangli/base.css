@@ -1,0 +1,15 @@
+@charset "utf-8";
+.w1199{width: 1199px;}
+a{text-decoration: none;}
+li{list-style: none;}
+.pos-rel{position: relative;}
+.clearfix{zoom: 1;}
+.clearfix{content: "";
+          display: block;
+          clear: both;
+                }
+input{border:  none;
+outline: none;}
+.fl{float: left;}
+.dpn{display: none;}
+
